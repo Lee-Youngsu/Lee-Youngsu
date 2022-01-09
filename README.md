@@ -5,10 +5,11 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,Oracle,PostgreSQL,SQLite,Docker,Git,GitHub,Nginx)](https://github.com/Lee-Youngsu)
 
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Lee-Youngsu&node-js-book)](https://github.com/Lee-Youngsu/node-js-book)
-
 
 <!--
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Lee-Youngsu&node-js-book)](https://github.com/Lee-Youngsu/node-js-book)
+
 **Lee-Youngsu/Lee-Youngsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
